@@ -1,2 +1,2 @@
 # MattsRepo
-Testing if I can make a repo
+Getting set up with GitHub 
